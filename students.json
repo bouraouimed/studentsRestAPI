@@ -1,5 +1,5 @@
-[
-"students":{
+{
+"students":[
 	"EtudiantID":1,
 	"NomEtudiant":"Sami",
 	"presenceEtudiant":0,
@@ -18,5 +18,5 @@
 	"Groupe":{
 		"GroupeID":2,
 		"nomGroup":"M32"}
-}
 ]
+{

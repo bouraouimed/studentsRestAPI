@@ -9,8 +9,7 @@
 		"GroupeID":1,
 		"nomGroup":"M31"
 	}
-},  
-{
+},{
 	"EtudiantID":2,
 	"NomEtudiant":"Salma",
 	"presenceEtudiant":0,

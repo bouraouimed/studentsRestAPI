@@ -8,9 +8,8 @@
 	"GroupeID":1,
 	"Groupe":{
 		"GroupeID":1,
-		"nomGroup":"M31"
-	}}
-},{{
+		"nomGroup":"M31"}
+	},{
 	"EtudiantID":2,
 	"NomEtudiant":"Salma",
 	"presenceEtudiant":0,
@@ -18,6 +17,7 @@
 	"GroupeID":2,
 	"Groupe":{
 		"GroupeID":2,
-		"nomGroup":"M32"}}
+		"nomGroup":"M32"}
+	}
 ]
 {

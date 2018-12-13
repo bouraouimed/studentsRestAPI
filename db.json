@@ -1,0 +1,23 @@
+{
+"students":[
+	{
+	"EtudiantID":1,
+	"NomEtudiant":"Sami",
+	"presenceEtudiant":0,
+	"bonusEtudiant":0,
+	"GroupeID":1,
+	"Groupe":{
+		"GroupeID":1,
+		"nomGroup":"M31"}
+	},{
+	"EtudiantID":2,
+	"NomEtudiant":"Salma",
+	"presenceEtudiant":0,
+	"bonusEtudiant":4,
+	"GroupeID":2,
+	"Groupe":{
+		"GroupeID":2,
+		"nomGroup":"M32"}
+	}
+]
+{
